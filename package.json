@@ -28,7 +28,7 @@
     "url": "https://github.com/EOSIO/eosjs.git"
   },
   "dependencies": {
-    "eosjs-ecc": "ExodusMovement/eosjs-ecc#6f9b50127ffddad2da913814a7e1ca3adde87e42",
+    "@exodus/eosjs-ecc": "4.0.9-exodus.1",
     "text-encoding": "0.7.0"
   },
   "devDependencies": {

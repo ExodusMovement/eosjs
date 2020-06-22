@@ -1,4 +1,4 @@
-import * as ecc from 'eosjs-ecc';
+import * as ecc from '@exodus/eosjs-ecc';
 import { JsSignatureProvider } from '../eosjs-jssig';
 
 describe('JsSignatureProvider', () => {
