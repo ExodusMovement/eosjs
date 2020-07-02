@@ -27,6 +27,12 @@
     "type": "git",
     "url": "https://github.com/EOSIO/eosjs.git"
   },
+  "files": [
+    "CONTRIBUTING.md",
+    "/dist/*.js",
+    "/dist/*.ts",
+    "/src/*.abi.json"
+  ],
   "dependencies": {
     "@exodus/eosjs-ecc": "4.0.9-exodus.1",
     "text-encoding": "0.7.0"
