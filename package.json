@@ -1,6 +1,6 @@
 {
   "name": "@exodus/eosjs",
-  "version": "20.0.0-exodus.1",
+  "version": "20.0.0-exodus.2",
   "description": "Talk to eos API",
   "main": "dist/index.js",
   "scripts": {
